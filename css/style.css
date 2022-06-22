@@ -1,0 +1,66 @@
+.header{
+    padding: 24px 0;
+}
+.logo a{
+    color: #1F1F1F;
+    text-decoration: none;
+    font-weight: 700;
+    font-size: 36px;
+}
+.nav ul{
+    list-style: none;
+}
+.nav li{
+    margin: 0 16px;
+}
+.nav li a{
+    font-size: 18px;
+    color: #1F1F1F;
+    text-decoration: none;
+}
+.nav li a:hover{
+    opacity: 0.9;
+}
+.banner{
+    background:url("../img/unsplash_EZyot4kBaLg.png");
+    background-size: cover;
+    text-align: center;
+    padding: 200px 0;
+    color: white;
+    background-position: center;
+}
+.banner p{
+    margin-bottom: 40px;
+}
+.btn{
+    background-color: #3C74CB;
+    color: white;
+    padding: 8px 40px;
+    text-decoration: none;
+}
+.services{
+    padding: 80px 0;
+}
+.services h1{
+    text-align: center;
+    margin-bottom: 32px;
+}
+.box{
+    overflow: hidden;
+}
+.feature{
+    height: 290px;
+    overflow: hidden;
+}
+.feature img{
+    height: 100%;
+}
+.content{
+    padding: 32px 0;
+}
+.content p{
+    margin: 16px 0;
+}
+.social a{
+    color: #1F1F1F;
+}
